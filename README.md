@@ -7,5 +7,4 @@ Automating aws with python
 
 -- List buckets
 -- List contents of a bucket
-
- 
+-- Create and setup buckets
