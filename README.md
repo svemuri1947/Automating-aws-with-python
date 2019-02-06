@@ -5,6 +5,7 @@ Automating aws with python
 
 ## features
 
+-- Create and setup buckets
 -- List buckets
 -- List contents of a bucket
--- Create and setup buckets
+
